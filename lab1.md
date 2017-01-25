@@ -24,3 +24,8 @@ Free Culture Chapter 3
 ![regex](images/regex6.png)
 
 ### Part 2
+![regex](images/begginer1.png)
+![regex](images/begginer2.png)
+![regex](images/begginer3.png)
+![regex](images/begginer4.png)
+![regex](images/begginer5.png)
