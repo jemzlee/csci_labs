@@ -34,3 +34,4 @@ Free Culture Chapter 3
 ![blockly](images/blockly.png)
 
 ### Reflection
+I have never worked on any open source projects or created my projects myself. I should try to find ways to incorporate coding into my everyday life. My friends always say things like "I could make a program to do this or that or etc", but I myself usually don't think of ideas like that. I am going to ask around and google to see if there is a project I would like to work on.
