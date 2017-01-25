@@ -3,3 +3,4 @@
 ### github account: jemzlee
 ### slack handle: jemzlee
 
+![james](images/profile.png)
