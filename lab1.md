@@ -11,6 +11,16 @@ Free Culture Chapter 3
   using music files or they could come after me.
   
 ## Linux Stuff
-![linuxtree](images/linuxtree.png)
+![linuxtree](images/tree.png)
 
 ## Regex Stuff
+### Part 1
+![regex](images/regex1.png)
+![regex](images/regex1.5.png)
+![regex](images/regex2.png)
+![regex](images/regex3.png)
+![regex](images/regex4.png)
+![regex](images/regex5.png)
+![regex](images/regex6.png)
+
+### Part 2
