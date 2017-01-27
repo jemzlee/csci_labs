@@ -10,6 +10,6 @@ There could be legal issues if you use someone's code without permission. The li
 I agree with the author's claims on why the WWW beat Gopher. The WWW was funded and developed by CERN, while Gopher was created on a university campus. They already have the advantage of funds and developers. The WWW developers were thinking of a global scale when they started on the project while the Gopher developers were originally making something for the campus to use. Another factor was that the WWW developers used the open source tactic much more effectively.
 
 ### Can you justify why such a license is chosen (Justification for ONE is enough).
-Android - Apache License 2.0
+#### Android - Apache License 2.0
 This license allows the users to make changes to the code for themselves. If they do want to redistribute, they have to make sure their changes are noted in the code. This probably protects Android from being blamed for different sources of their code. It is also very compatible with GPL which its kernel uses.
 
